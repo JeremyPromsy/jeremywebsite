@@ -47,12 +47,18 @@ function Navbar() {
                 <NavLink to="#Informations" onClick={closeMenu}>Informations</NavLink>
               </li>
               <li className="nav-links nav-links4">
+                <NavLink to="#apropos" onClick={closeMenu}>A propos</NavLink>
+              </li>
+              <li className="nav-links nav-links5">
+                <NavLink to="#SavoirPlus" onClick={closeMenu}>En savoir plus</NavLink>
+              </li>
+              <li className="nav-links nav-links7">
                 <NavLink to="/contact" onClick={closeMenu}>Contact</NavLink>
               </li>
             </ul>
           </div>
           </div>
-        <div className="contactNav nav-links nav-links5">
+        <div className="contactNav nav-links nav-links6">
             <NavLink to="/contact" onClick={closeMenu}>Contact</NavLink>
         </div>
         </div>

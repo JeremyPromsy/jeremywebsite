@@ -2,8 +2,7 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
 import "../styles/footer.css"
-import { Link } from "react-router-dom";
-
+//import { Link } from "react-router-dom";
 
 function Footer() {
     return (
@@ -25,6 +24,12 @@ function Footer() {
                     </li>
                     <li className="nav-links-footer nav-links-footer3">
                       <NavLink to="#Informations">Informations</NavLink>
+                    </li>
+                    <li className="nav-links-footer nav-links-footer4">
+                        <NavLink to="#apropos">A propos</NavLink>
+                    </li>
+                    <li className="nav-links-footer nav-links-footer3">
+                        <NavLink to="#SavoirPlus">En savoir plus</NavLink>
                     </li>
                 </ul>
             </div>

@@ -63,7 +63,7 @@
     padding-right: 20px;
   }
   
-  .nav-links5{
+  .nav-links7{
     border-radius: 20px;
     background-color: #f38545 ;
     border: none;
@@ -108,7 +108,7 @@
       display: none;
     }
   
-    .nav-links5{
+    .nav-links7{
       display: none;
     }
   
@@ -184,7 +184,7 @@
       text-align: center;
     }
   
-    .showNav .classNav .nav-links .nav-links5 button{
+    .showNav .classNav .nav-links .nav-links7 button{
       background-color: #002A3B;
     }
   
