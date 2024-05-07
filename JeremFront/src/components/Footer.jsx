@@ -16,21 +16,15 @@ function Footer() {
             </div>
             <div className="footerMilieu">
                 <ul className="navLinksFooterMid"> 
-                    <h4>Pages</h4>
+                    <h4>Informations utiles</h4>
                     <li className="nav-links-footer nav-links-footer1">
-                    <NavLink to="/Gestion">Gestion</NavLink>
+                      <NavLink to="#Réalisations">Réalisations</NavLink>
                     </li>
                     <li className="nav-links-footer nav-links-footer2">
-                    <NavLink to="/financier">Financier</NavLink>
+                      <NavLink to="#Technologies">Technologies</NavLink>
                     </li>
                     <li className="nav-links-footer nav-links-footer3">
-                    <NavLink to="/immobilier">Immobilier</NavLink>
-                    </li>
-                    <li className="nav-links-footer nav-links-footer4">
-                    <NavLink to="/art-thérapie">Art-Thérapie</NavLink>
-                    </li>
-                    <li className="nav-links-footer nav-links-footer5">
-                    <NavLink to="/informations">Me connaitre</NavLink>
+                      <NavLink to="#Informations">Informations</NavLink>
                     </li>
                 </ul>
             </div>
@@ -53,7 +47,7 @@ function Footer() {
             </div>
             </div>
             <div className="footerBas">
-                VPA by Sandra - © 2024 Tous droits réservés
+                Jérémy Promsy - © 2024 Tous droits réservés
             </div>
         </div>
     )

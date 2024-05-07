@@ -38,27 +38,21 @@ function Navbar() {
                 <NavLink to="/" onClick={closeMenu}>Accueil</NavLink>
               </li>
               <li className="nav-links nav-links1">
-                <NavLink to="/Gestion" onClick={closeMenu}>Gestion</NavLink>
+                <NavLink to="#Réalisations" onClick={closeMenu}>Réalisations</NavLink>
               </li>
               <li className="nav-links nav-links2">
-                <NavLink to="/financier" onClick={closeMenu}>Financier</NavLink>
+                <NavLink to="#Technologies" onClick={closeMenu}>Technologies</NavLink>
               </li>
               <li className="nav-links nav-links3">
-                <NavLink to="/immobilier" onClick={closeMenu}>Immobilier</NavLink>
+                <NavLink to="#Informations" onClick={closeMenu}>Informations</NavLink>
               </li>
               <li className="nav-links nav-links4">
-                <NavLink to="/art-thérapie" onClick={closeMenu}>Art-Thérapie</NavLink>
-              </li>
-              <li className="nav-links nav-links5">
-                <NavLink to="/informations" onClick={closeMenu}>Me connaitre</NavLink>
-              </li>
-              <li className="nav-links nav-links7">
-                  <NavLink to="/contact" onClick={closeMenu}>Contact</NavLink>
+                <NavLink to="/contact" onClick={closeMenu}>Contact</NavLink>
               </li>
             </ul>
           </div>
           </div>
-        <div className="contactNav nav-links nav-links6">
+        <div className="contactNav nav-links nav-links5">
             <NavLink to="/contact" onClick={closeMenu}>Contact</NavLink>
         </div>
         </div>

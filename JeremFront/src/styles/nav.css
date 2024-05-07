@@ -1,6 +1,6 @@
 
 .header {
-    background: #002A3B;
+    background: black;
     height: 100px;
     position: sticky;
     width: 100%;
@@ -63,7 +63,7 @@
     padding-right: 20px;
   }
   
-  .nav-links6{
+  .nav-links5{
     border-radius: 20px;
     background-color: #f38545 ;
     border: none;
@@ -108,7 +108,7 @@
       display: none;
     }
   
-    .nav-links7{
+    .nav-links5{
       display: none;
     }
   
@@ -184,7 +184,7 @@
       text-align: center;
     }
   
-    .showNav .classNav .nav-links .nav-links7 button{
+    .showNav .classNav .nav-links .nav-links5 button{
       background-color: #002A3B;
     }
   
