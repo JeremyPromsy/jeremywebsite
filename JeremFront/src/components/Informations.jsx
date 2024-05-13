@@ -16,6 +16,7 @@ function Informations() {
         <div className="infoLiens">
           <Link to="https://fr.linkedin.com/in/jeremypromsy" target="_blank" rel="noopener"><FontAwesomeIcon icon="fa-brands fa-linkedin" /></Link>
           <Link to="https://twitter.com/JeremyPromsy" target="_blank" rel="noopener"><FontAwesomeIcon icon="fa-brands fa-twitter" /></Link>
+          <Link to="https://github.com/JeremyPromsy" target="_blank" rel="noopener"><FontAwesomeIcon icon="fa-brands fa-github" /></Link>
         </div>
       </div>
     );

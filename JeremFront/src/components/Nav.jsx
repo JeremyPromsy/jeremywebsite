@@ -8,9 +8,9 @@ return (
           <div className="logoNav">
             <NavLink to="/">
               <img className="logo-img-Mobile" //src={}
-               alt="logo VPA" />
+               alt="logo Jérémy Promsy" />
               <img className="logo-img-Desktop" //src={} 
-              alt="logo VPA" />
+              alt="logo Jérémy Promsy" />
             </NavLink>
           </div>
           <div className="contactNav nav-links">

@@ -13,7 +13,7 @@ import Mentions from './pages/MentionsLégales'
 
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { fas } from '@fortawesome/free-solid-svg-icons'
-import { faTwitter, faFontAwesome, faTiktok, faReact, faLinkedin, faHtml5, faCss3Alt, faJs, faWordpress} from '@fortawesome/free-brands-svg-icons'
+import { faTwitter, faFontAwesome, faTiktok, faReact, faLinkedin, faHtml5, faCss3Alt, faJs, faWordpress, faGithub} from '@fortawesome/free-brands-svg-icons'
 
 import "./index.css"
 
@@ -34,7 +34,7 @@ root.render(
 );
 
 
-library.add(fas, faTwitter, faFontAwesome, faTiktok, faLinkedin, faReact, faHtml5, faCss3Alt, faJs, faWordpress)
+library.add(fas, faTwitter, faFontAwesome, faTiktok, faLinkedin, faReact, faHtml5, faCss3Alt, faJs, faWordpress, faGithub)
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals

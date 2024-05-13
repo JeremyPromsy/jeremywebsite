@@ -3,7 +3,7 @@
     justify-content: space-between;
     align-items: center;
     text-align: center;
-    background-color: blue;
+    background-color: #c9dfec;
 }
 
 .footerGauche {
@@ -24,19 +24,22 @@
     padding: 0;
 }
 
-.footerDroit {
+.footerMentions {
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
-.footerMentions {
-    margin-top:10px;
-    color: white;
+.footerMentions a {
+    color: black;
+    text-decoration: none;
 }
 
 @media screen and (max-width:1024px){
     .footer {
         width: 100%;
+        display: flex;
+        flex-direction: column;
     }
 
     .footerGauche{
@@ -44,18 +47,19 @@
     }
 
     .logoFooter {
-        height: 100px;
+        height: 50px;
         padding-top: 0;
     }
 
     .footerMilieu{
-        border-top: 1px #f38545  solid;
-        border-bottom: 1px #f38545 solid;
-        height: 200px;
+        border-top: 1px black  solid;
+        border-bottom: 1px black solid;
+        height: 50px;
+        width: 100%;
     }
     
     .footerDroit{
-        height: 200px;
+        height: 50px;
     }
 }
 
