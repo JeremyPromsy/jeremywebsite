@@ -12,6 +12,10 @@ import Contact from './pages/Contact'
 import Mentions from './pages/MentionsLégales'
 import Informations from './pages/Informations'
 
+import { library } from '@fortawesome/fontawesome-svg-core'
+import { fas } from '@fortawesome/free-solid-svg-icons'
+import { faTwitter, faFontAwesome, faTiktok, faLinkedin} from '@fortawesome/free-brands-svg-icons'
+
 import "./index.css"
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -31,6 +35,8 @@ root.render(
   </React.StrictMode>,
 );
 
+
+library.add(fas, faTwitter, faFontAwesome, faTiktok, faLinkedin)
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals

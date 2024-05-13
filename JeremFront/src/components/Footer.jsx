@@ -2,7 +2,8 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
 import "../styles/footer.css"
-//import { Link } from "react-router-dom";
+import { Link } from "react-router-dom";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 function Footer() {
     return (
@@ -42,7 +43,9 @@ function Footer() {
                     </div>
                     <div className="footerBoutonLinkedin">
                         <button className="nav-links-footer7">
-                            
+                            <Link to="https://fr.linkedin.com/in/jeremypromsy" target="_blank" rel="noopener">
+                                <FontAwesomeIcon icon="fa-brands fa-linkedin" />
+                            </Link>
                         </button>
                     </div>
                     <div className="footerMentions nav-links-footer">
