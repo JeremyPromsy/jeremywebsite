@@ -13,9 +13,9 @@ return (
               alt="logo VPA" />
             </NavLink>
           </div>
-        <div className="contactNav nav-links nav-links6">
-            <NavLink to="/contact">Contact</NavLink>
-        </div>
+          <div className="contactNav nav-links">
+              <NavLink to="/contact">Contact</NavLink>
+          </div>
       </nav>
   );
 }
