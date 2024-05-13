@@ -4,7 +4,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 function Technologies() {
     return (
-      <div className="partTechnologies">
+      <div className="partTechnologies" id="Technoligies">
         <h2>Mes technologies</h2>
         <div className="cardTechnologie cardTechno1">
             <FontAwesomeIcon icon="fa-brands fa-html5" />
