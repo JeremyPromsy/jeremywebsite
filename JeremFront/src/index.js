@@ -10,7 +10,6 @@ import Home from './pages/Home'
 import Error404 from './pages/404'
 import Contact from './pages/Contact'
 import Mentions from './pages/MentionsLégales'
-import Informations from './pages/Informations'
 
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { fas } from '@fortawesome/free-solid-svg-icons'
@@ -27,7 +26,6 @@ root.render(
       <Route path = "/" element ={<Home />} />
       <Route path = "/contact" element ={<Contact />} />
       <Route path = "/mentionslégales" element ={<Mentions />} /> 
-      <Route path = "/informations" element ={<Informations />} /> 
       <Route path = "*" element ={<Error404 />} /> 
     </Routes>
     <Footer />

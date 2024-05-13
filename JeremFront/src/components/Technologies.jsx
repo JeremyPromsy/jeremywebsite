@@ -1,7 +1,7 @@
 import React from "react";
-import "../styles/informations.css";
+import "../styles/technologies.css"
 
-function Informations() {
+function Technologies() {
     return (
       <div className="">
       
@@ -9,4 +9,4 @@ function Informations() {
     );
   }
   
-export default Informations;
+export default Technologies;
