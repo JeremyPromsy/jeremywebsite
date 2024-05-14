@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/jeremywebsite/static/css/main.ecaeedc6.css",
+    "main.css": "/jeremywebsite/static/css/main.89129c30.css",
     "main.js": "/jeremywebsite/static/js/main.96ac1499.js",
     "static/js/453.7fd05d77.chunk.js": "/jeremywebsite/static/js/453.7fd05d77.chunk.js",
     "static/media/Jérémy-Promsy.JPG": "/jeremywebsite/static/media/Jérémy-Promsy.a85149a5117f4a35c205.JPG",
     "static/media/jeremypromsy-logoDesktop-JérémyPromsy.png": "/jeremywebsite/static/media/jeremypromsy-logoDesktop-JérémyPromsy.c57601fe7dfb2272e172.png",
     "static/media/jeremypromsy-logoMobile-JérémyPromsy.png": "/jeremywebsite/static/media/jeremypromsy-logoMobile-JérémyPromsy.65fb0d14b08b5bf3f6f7.png",
     "index.html": "/jeremywebsite/index.html",
-    "main.ecaeedc6.css.map": "/jeremywebsite/static/css/main.ecaeedc6.css.map",
+    "main.89129c30.css.map": "/jeremywebsite/static/css/main.89129c30.css.map",
     "main.96ac1499.js.map": "/jeremywebsite/static/js/main.96ac1499.js.map",
     "453.7fd05d77.chunk.js.map": "/jeremywebsite/static/js/453.7fd05d77.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ecaeedc6.css",
+    "static/css/main.89129c30.css",
     "static/js/main.96ac1499.js"
   ]
 }
