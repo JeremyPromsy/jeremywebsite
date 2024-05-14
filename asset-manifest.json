@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/JeremyPromsy/jeremywebsite/static/css/main.a2c400fb.css",
-    "main.js": "/JeremyPromsy/jeremywebsite/static/js/main.36a1620d.js",
-    "static/js/453.69f3745b.chunk.js": "/JeremyPromsy/jeremywebsite/static/js/453.69f3745b.chunk.js",
-    "static/media/Jérémy-Promsy.JPG": "/JeremyPromsy/jeremywebsite/static/media/Jérémy-Promsy.a85149a5117f4a35c205.JPG",
-    "static/media/jeremypromsy-logoDesktop-JérémyPromsy.png": "/JeremyPromsy/jeremywebsite/static/media/jeremypromsy-logoDesktop-JérémyPromsy.c57601fe7dfb2272e172.png",
-    "static/media/jeremypromsy-logoMobile-JérémyPromsy.png": "/JeremyPromsy/jeremywebsite/static/media/jeremypromsy-logoMobile-JérémyPromsy.65fb0d14b08b5bf3f6f7.png",
-    "index.html": "/JeremyPromsy/jeremywebsite/index.html",
-    "main.a2c400fb.css.map": "/JeremyPromsy/jeremywebsite/static/css/main.a2c400fb.css.map",
-    "main.36a1620d.js.map": "/JeremyPromsy/jeremywebsite/static/js/main.36a1620d.js.map",
-    "453.69f3745b.chunk.js.map": "/JeremyPromsy/jeremywebsite/static/js/453.69f3745b.chunk.js.map"
+    "main.css": "./static/css/main.a2c400fb.css",
+    "main.js": "./static/js/main.e8412d02.js",
+    "static/js/453.69f3745b.chunk.js": "./static/js/453.69f3745b.chunk.js",
+    "static/media/Jérémy-Promsy.JPG": "./static/media/Jérémy-Promsy.a85149a5117f4a35c205.JPG",
+    "static/media/jeremypromsy-logoDesktop-JérémyPromsy.png": "./static/media/jeremypromsy-logoDesktop-JérémyPromsy.c57601fe7dfb2272e172.png",
+    "static/media/jeremypromsy-logoMobile-JérémyPromsy.png": "./static/media/jeremypromsy-logoMobile-JérémyPromsy.65fb0d14b08b5bf3f6f7.png",
+    "index.html": "./index.html",
+    "main.a2c400fb.css.map": "./static/css/main.a2c400fb.css.map",
+    "main.e8412d02.js.map": "./static/js/main.e8412d02.js.map",
+    "453.69f3745b.chunk.js.map": "./static/js/453.69f3745b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a2c400fb.css",
-    "static/js/main.36a1620d.js"
+    "static/js/main.e8412d02.js"
   ]
 }
