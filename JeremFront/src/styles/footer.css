@@ -43,11 +43,11 @@
     }
 
     .footerGauche{
-        height: 100px;
+        height: 50px;
     }
 
     .logoFooter {
-        height: 50px;
+        height: 30px;
         padding-top: 0;
     }
 
@@ -79,6 +79,12 @@
     width: 34%;
     border-left: 1px white  solid ;
     border-right: 1px white solid;
+    height: 100%;
+}
+
+.logoFooter {
+    height: 30px;
+    padding-top: 0;
 }
 
 .footerDroit {

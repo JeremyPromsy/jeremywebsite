@@ -4,7 +4,7 @@ import FormContact from "../components/FormContact"
 
 function Contact() {
   return (
-    <div className="pageInfo">
+    <div className="pageContact">
     <div className="contactPage">
       <div className="contactDiv">
         <h1>Contactez-moi !</h1>

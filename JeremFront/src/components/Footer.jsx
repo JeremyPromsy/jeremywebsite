@@ -2,13 +2,14 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
 import "../styles/footer.css"
+import logoDesktop from "../assets/jeremypromsy-logoDesktop-JérémyPromsy.png";
 
 function Footer() {
     return (
         <div className="footer">
             <div className="footerGauche">
                 <NavLink to="/">
-                    <img className="logoFooter"  alt ="logo Jérémy Promsy" /> 
+                    <img className="logoFooter"  src={logoDesktop} alt ="logo Jérémy Promsy" /> 
                 </NavLink>
             </div>
             <div className="footerMilieu">
