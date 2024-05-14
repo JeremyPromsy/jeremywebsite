@@ -1,3 +1,27 @@
 .partTechnologies {
     background: #c9dfec;
 }
+
+.cardTechnologie .technoIcons {
+    height: 50px;
+}
+
+.cardTechnologie .technoIcons1 {
+    color: #0e76a8;
+}
+
+.cardTechnologie .technoIcons2 {
+    color: red;
+}
+
+.cardTechnologie .technoIcons3 {
+    color: red;
+}
+
+.cardTechnologie .technoIcons4 {
+    color: red;
+}
+
+.cardTechnologie .technoIcons5 {
+    color: red;
+}
